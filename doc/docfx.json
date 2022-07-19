@@ -3,8 +3,8 @@
     {
       "src": [
         { 
-					"src":"../bin/x64/Debug/net6.0",
-					"files":["xrefdemo.dll"]
+					"src":"../bin/",
+					"files":["**/xrefdemo.dll"]
         }
       ],
       "dest": "api",
